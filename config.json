@@ -65,6 +65,13 @@
       "description": "Build a REST API with FastAPI, implementing CRUD operations, data validation, and endpoint tests.",
       "path": "assignments/building-rest-apis-with-fastapi",
       "dueDate": "2026-11-02"
+    },
+    {
+      "id": "rag-with-langchain",
+      "title": "Building a Document Q&A Assistant with LangChain",
+      "description": "Build a document question-answering assistant using LangChain, semantic retrieval, and grounded RAG responses with source citations.",
+      "path": "assignments/rag-with-langchain",
+      "dueDate": "2026-11-02"
     }
   ]
 }
