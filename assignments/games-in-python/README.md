@@ -1,18 +1,18 @@
 
-# 📘 Assignment: Jogo da Forca
+# 📘 Atividade: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Construa um jogo da Forca em Python para praticar manipulação de strings, loops, condicionais, entrada de dados e seleção aleatória. O jogador deve adivinhar as letras de uma palavra oculta antes de esgotar as tentativas.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Implementar a rodada de adivinhação
 
-#### Description
+#### Descrição
 Crie a lógica principal do jogo: escolha uma palavra aleatoriamente de uma lista predefinida, receba palpites de letras e atualize o progresso da palavra oculta.
 
-#### Requirements
+#### Requisitos
 O programa concluído deve:
 
 - Selecionar uma palavra aleatoriamente de uma lista predefinida.
@@ -22,10 +22,10 @@ O programa concluído deve:
 
 ### 🛠️ Encerrar a partida com o resultado
 
-#### Description
+#### Descrição
 Finalize a partida quando o jogador descobrir a palavra ou não tiver mais tentativas, informando claramente o resultado.
 
-#### Requirements
+#### Requisitos
 O programa concluído deve:
 
 - Encerrar a partida quando todas as letras da palavra forem adivinhadas.
